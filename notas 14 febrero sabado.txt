@@ -1,0 +1,18 @@
+cosas escenciales para conexion
+
+servidor ip
+nombre
+password
+puerto
+base de datos 
+
+
+MYSQL----------Conexion.java------ModeloDeDatos.java--------VentanaPersonas.java
+
+EXEPTION:
+
+try: intentar
+catch: atrapar
+throw: lanzador
+throws: esquivar
+finally: umpire/arbitro
