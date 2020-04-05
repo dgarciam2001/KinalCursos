@@ -1,0 +1,11 @@
+Triggers(disparadores) = trabajan a nivel 
+de tablas se activan solo con: 
+insert, update y delete
+
+se pueden llegar a ejecutar de la siguiente manera
+antes (before)
+despues (after)
+
+
+
+
